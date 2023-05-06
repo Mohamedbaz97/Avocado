@@ -10,7 +10,7 @@ The goal of this project is to analyze the trends and patterns in avocado prices
 5- How do organic and conventional avocado prices compare?
 6- How do avocado prices vary by region and type?
 
-After finishing our analysis as showed in the python file and HTML file also, We can get the insights as following:
+After finishing our analysis as showed in the python file, We can get the insights as following:
 
 
 - Avocado prices have generally increased over time, with some fluctuations.
